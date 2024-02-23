@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.1
+Build-Jdk-Spec: 11
+Extension-Name: robot
+Implementation-Title: robot
+Implementation-Version: 3.5.0
+Specification-Title: Shows Robot Framework test results in project
+Group-Id: org.jenkins-ci.plugins
+Short-Name: robot
+Long-Name: Robot Framework plugin
+Url: https://github.com/jenkinsci/robot-plugin/blob/master/doc/README.md
+Minimum-Java-Version: 1.8
+Plugin-Version: 3.5.0
+Hudson-Version: 2.346.3
+Jenkins-Version: 2.346.3
+Plugin-Dependencies: blueocean-rest-impl:1.25.0;resolution:=optional,sna
+ keyaml-api:1.33-90.v80dcb_3814d35,workflow-step-api:639.v6eca_cd8c04a_a
+ _,cloudbees-folder:6.740.ve4f4ffa_dea_54,credentials:1143.vb_e8b_b_ceee
+ 347,display-url-api:2.3.6,jackson2-api:2.13.4.20221013-295.v8e29ea_3541
+ 41,junit:1166.va_436e268e972,mailer:435.438.v5b_81173f5b_a_1;resolution
+ :=optional,matrix-project:772.v494f19991984,scm-api:621.vda_a_b_055e58f
+ 7,script-security:1229.v4880b_b_e905a_6;resolution:=optional,structs:32
+ 4.va_f5d6774f3a_d,token-macro:2.6;resolution:=optional,variant:59.vf075
+ fe829ccb
+Plugin-Developers: Janne Piironen:jpiironen:janne.piironen@gmail.com,Ale
+ ksi Simell:aleksisimell:aleksi.simell@eficode.com,Tatu Kairi:tattoo:tat
+ u.kairi@eficode.com,Juho Saarinen:hifi:juho.saarinen@eficode.com
+Plugin-ScmUrl: https://www.github.com/jenkinsci/robot-plugin
+
